@@ -1,0 +1,7 @@
+{
+  "name": "SaaS Dashboard",
+  "description": "A clean, simple SaaS dashboard displaying key metrics, revenue trends, and recent customer activity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
